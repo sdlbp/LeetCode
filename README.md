@@ -1,5 +1,5 @@
 # Leet Code 
-Until 2018-11-20 19:02:28, I have solved **70** / **937** problems while **162** are still locked.
+Until 2018-11-20 19:32:56, I have solved **69** / **937** problems while **162** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 

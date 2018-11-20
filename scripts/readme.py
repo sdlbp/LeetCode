@@ -125,6 +125,8 @@ class TableInform:
                 for _, _, files in os.walk(os.path.join(oj_algorithms, folder)):
                     # print(files)
                     if len(files) != 0:
+                        # print("folder", folder)
+                        # print("a", files)
                         complete_info.complete_num += 1
                     for item in files:
                         # print(os.path.abspath(item))
@@ -135,10 +137,8 @@ class TableInform:
                             folder_url = folder.replace(' ', "%20")
                             folder_url = os.path.join(folder_url, item)
                             folder_url = os.path.join(Config.github_leetcode_url, folder_url)
-                            if folder[:3] in self.table_item:
-                                self.table_item[folder[:3]].python = '[Python]({})'.format(folder_url)
-                            else:
-                                print(folder, "不存在")
+                            # print("b", files)
+                            self.table_item[folder[:3]].python = '[Python]({})'.format(folder_url)
                         elif item.endswith('.java'):
                             complete_info.solved['java'] += 1
                             folder_url = folder.replace(' ', "%20")
