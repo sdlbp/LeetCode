@@ -1,5 +1,5 @@
 # Leet Code 
-Until 2018-11-20 18:45:38, I have solved **70** / **891** problems while **139** are still locked.
+Until 2018-11-20 19:02:28, I have solved **70** / **937** problems while **162** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
@@ -187,13 +187,29 @@ Note: :lock: means you need to buy a book from LeetCode
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/) |Easy|To Do|To Do|To Do|To Do|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) |Medium|To Do|To Do|To Do|To Do|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/description/) |Hard|To Do|To Do|To Do|To Do|
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/175.%20Combine%20Two%20Tables/combine-two-tables.py)|To Do|To Do|
+|176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/176.%20Second%20Highest%20Salary/second-highest-salary.py)|To Do|To Do|
+|177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/description/) |Medium|To Do|To Do|To Do|To Do|
+|178|[Rank Scores](https://leetcode.com/problems/rank-scores/description/) |Medium|To Do|To Do|To Do|To Do|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/description/) |Medium|To Do|To Do|To Do|To Do|
+|180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/description/) |Medium|To Do|To Do|To Do|To Do|
+|181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/) |Easy|To Do|To Do|To Do|To Do|
+|182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/182.%20Duplicate%20Emails/duplicate-emails.py)|To Do|To Do|
+|183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/183.%20Customers%20Who%20Never%20Order/customers-who-never-order.py)|To Do|To Do|
+|184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/description/) |Medium|To Do|To Do|To Do|To Do|
+|185|[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/description/) |Hard|To Do|To Do|To Do|To Do|
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) |Medium|To Do|To Do|To Do|To Do|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) |Hard|To Do|To Do|To Do|To Do|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) |Easy|To Do|To Do|To Do|To Do|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) |Easy|To Do|To Do|To Do|To Do|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) |Easy|To Do|To Do|To Do|To Do|
+|192|[Word Frequency](https://leetcode.com/problems/word-frequency/description/) |Medium|To Do|To Do|To Do|To Do|
+|193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/description/) |Easy|To Do|To Do|To Do|To Do|
+|194|[Transpose File](https://leetcode.com/problems/transpose-file/description/) |Medium|To Do|To Do|To Do|To Do|
+|195|[Tenth Line](https://leetcode.com/problems/tenth-line/description/) |Easy|To Do|To Do|To Do|To Do|
+|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/196.%20Delete%20Duplicate%20Emails/delete-duplicate-emails.py)|To Do|To Do|
+|197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/197.%20Rising%20Temperature/rising-temperature.py)|To Do|To Do|
 |198|[House Robber](https://leetcode.com/problems/house-robber/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/198.%20House%20Robber/house-robber.py)|To Do|To Do|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) |Medium|To Do|To Do|To Do|To Do|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -258,6 +274,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/description/) |Medium|To Do|To Do|To Do|To Do|
 |261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
+|262|[Trips and Users](https://leetcode.com/problems/trips-and-users/description/) |Hard|To Do|To Do|To Do|To Do|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/description/) |Easy|To Do|To Do|To Do|To Do|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |265|[Paint House II](https://leetcode.com/problems/paint-house-ii/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
@@ -544,33 +561,62 @@ Note: :lock: means you need to buy a book from LeetCode
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/566.%20Reshape%20the%20Matrix/reshape-the-matrix.py)|To Do|To Do|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) |Medium|To Do|To Do|To Do|To Do|
 |568|[Maximum Vacation Days](https://leetcode.com/problems/maximum-vacation-days/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
+|569|[Median Employee Salary](https://leetcode.com/problems/median-employee-salary/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
+|570|[Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
+|571|[Find Median Given Frequency of Numbers](https://leetcode.com/problems/find-median-given-frequency-of-numbers/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) |Easy|To Do|To Do|To Do|To Do|
 |573|[Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
+|574|[Winning Candidate](https://leetcode.com/problems/winning-candidate/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/description/) |Easy|To Do|To Do|To Do|To Do|
 |576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/description/) |Medium|To Do|To Do|To Do|To Do|
+|577|[Employee Bonus](https://leetcode.com/problems/employee-bonus/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
+|578|[Get Highest Answer Rate Question](https://leetcode.com/problems/get-highest-answer-rate-question/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
+|579|[Find Cumulative Salary of an Employee](https://leetcode.com/problems/find-cumulative-salary-of-an-employee/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
+|580|[Count Student Number in Departments](https://leetcode.com/problems/count-student-number-in-departments/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/) |Easy|To Do|To Do|To Do|To Do|
 |582|[Kill Process](https://leetcode.com/problems/kill-process/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |583|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/description/) |Medium|To Do|To Do|To Do|To Do|
+|584|[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
+|585|[Investments in 2016](https://leetcode.com/problems/investments-in-2016/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
+|586|[Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |587|[Erect the Fence](https://leetcode.com/problems/erect-the-fence/description/) |Hard|To Do|To Do|To Do|To Do|
 |588|[Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |591|[Tag Validator](https://leetcode.com/problems/tag-validator/description/) |Hard|To Do|To Do|To Do|To Do|
 |592|[Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/description/) |Medium|To Do|To Do|To Do|To Do|
 |593|[Valid Square](https://leetcode.com/problems/valid-square/description/) |Medium|To Do|To Do|To Do|To Do|
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/description/) |Easy|To Do|To Do|To Do|To Do|
+|595|[Big Countries](https://leetcode.com/problems/big-countries/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/595.%20Big%20Countries/big-countries.py)|To Do|To Do|
+|596|[Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/description/) |Easy|To Do|To Do|To Do|To Do|
+|597|[Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/description/) |Easy|To Do|To Do|To Do|To Do|
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/) |Easy|To Do|To Do|To Do|To Do|
 |600|[Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/) |Hard|To Do|To Do|To Do|To Do|
+|601|[Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/description/) |Hard|To Do|To Do|To Do|To Do|
+|602|[Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
+|603|[Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |604|[Design Compressed String Iterator](https://leetcode.com/problems/design-compressed-string-iterator/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/605.%20Can%20Place%20Flowers/can_place_flowers.py)|To Do|To Do|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) |Easy|To Do|To Do|To Do|To Do|
+|607|[Sales Person](https://leetcode.com/problems/sales-person/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
+|608|[Tree Node](https://leetcode.com/problems/tree-node/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |609|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/description/) |Medium|To Do|To Do|To Do|To Do|
+|610|[Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/) |Medium|To Do|To Do|To Do|To Do|
+|612|[Shortest Distance in a Plane](https://leetcode.com/problems/shortest-distance-in-a-plane/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
+|613|[Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
+|614|[Second Degree Follower](https://leetcode.com/problems/second-degree-follower/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
+|615|[Average Salary: Departments VS Company](https://leetcode.com/problems/average-salary-departments-vs-company/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |616|[Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/617.%20Merge%20Two%20Binary%20Trees/merge-two-binary-trees.py)|To Do|To Do|
+|618|[Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
+|619|[Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
+|620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/620.%20Not%20Boring%20Movies%20/not-boring-movies.py)|To Do|To Do|
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) |Medium|To Do|To Do|To Do|To Do|
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/description/) |Medium|To Do|To Do|To Do|To Do|
 |624|[Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/description/) :lock:|Easy|To Do|To Do|To Do|To Do|
 |625|[Minimum Factorization](https://leetcode.com/problems/minimum-factorization/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
+|626|[Exchange Seats](https://leetcode.com/problems/exchange-seats/description/) |Medium|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/626.%20Exchange%20Seats/exchange-seats.py)|To Do|To Do|
+|627|[Swap Salary](https://leetcode.com/problems/swap-salary/description/) |Easy|To Do|To Do|To Do|To Do|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) |Easy|To Do|To Do|To Do|To Do|
 |629|[K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/description/) |Hard|To Do|To Do|To Do|To Do|
 |630|[Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) |Hard|To Do|To Do|To Do|To Do|

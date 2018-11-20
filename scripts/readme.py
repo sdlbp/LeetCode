@@ -1,6 +1,5 @@
 #!/usr/bin/env python
-# Created by Bruce yuan on 18-1-22.
-# https://github.com/hey-bruce/algorithms_and_oj/blob/master/scripts/readme.py
+# 参考 https://github.com/hey-bruce/algorithms_and_oj/blob/master/scripts/readme.py
 import requests
 import os
 import json
@@ -67,7 +66,7 @@ class TableInform:
         """
         # we should look the response data carefully to find law
         # return byte. content type is byte
-        content = requests.get('https://leetcode.com/api/problems/algorithms/').content
+        content = requests.get('https://leetcode.com/api/problems/all/').content
         # get all problems
         self.questions = json.loads(content.decode("utf-8"))['stat_status_pairs']
         # print(self.questions)
