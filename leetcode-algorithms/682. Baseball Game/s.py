@@ -9,6 +9,7 @@ class Solution:
     def v_1(self, ops):
         """
         72ms 3.71%
+        没有更好的解决方式,排名低估计是bug
         :param ops:
         :return:
         """
