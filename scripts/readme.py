@@ -66,9 +66,11 @@ class TableInform:
         """
         # we should look the response data carefully to find law
         # return byte. content type is byte
-        content = requests.get('https://leetcode.com/api/problems/all/').content
+        r = requests.get('https://leetcode.com/api/problems/all/')
+
+        print("headers", r.headers)
         # get all problems
-        self.questions = json.loads(content.decode("utf-8"))['stat_status_pairs']
+        self.questions = json.loads(r.content.decode("utf-8"))['stat_status_pairs']
         # print(self.questions)
         difficultys = ['Easy', 'Medium', 'Hard']
         for i in range(len(self.questions) - 1, -1, -1):

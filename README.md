@@ -1,9 +1,9 @@
 # Leet Code 
-Until 2018-11-20 19:32:56, I have solved **69** / **937** problems while **162** are still locked.
+Until 2018-11-22 20:38:09, I have solved **70** / **937** problems while **162** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 69
+2. Python: 70
 3. C++: 0
 4. Java: 0
 
@@ -670,7 +670,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |679|[24 Game](https://leetcode.com/problems/24-game/description/) |Hard|To Do|To Do|To Do|To Do|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) |Easy|To Do|To Do|To Do|To Do|
 |681|[Next Closest Time](https://leetcode.com/problems/next-closest-time/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
-|682|[Baseball Game](https://leetcode.com/problems/baseball-game/description/) |Easy|To Do|To Do|To Do|To Do|
+|682|[Baseball Game](https://leetcode.com/problems/baseball-game/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/682.%20Baseball%20Game/s.py)|To Do|To Do|
 |683|[K Empty Slots](https://leetcode.com/problems/k-empty-slots/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/description/) |Medium|To Do|To Do|To Do|To Do|
 |685|[Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -949,4 +949,4 @@ Note: :lock: means you need to buy a book from LeetCode
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/description/) |Easy|To Do|To Do|To Do|To Do|
 |942|[DI String Match](https://leetcode.com/problems/di-string-match/description/) |Easy|To Do|To Do|To Do|To Do|
 |943|[Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/description/) |Hard|To Do|To Do|To Do|To Do|
-|944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/) |Medium|To Do|To Do|To Do|To Do|
+|944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/) |Easy|To Do|To Do|To Do|To Do|
