@@ -1,9 +1,9 @@
 # Leet Code 
-Until 2018-11-22 20:38:09, I have solved **70** / **937** problems while **162** are still locked.
+Until 2018-11-23 11:37:46, I have solved **74** / **937** problems while **162** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
-2. Python: 70
+2. Python: 74
 3. C++: 0
 4. Java: 0
 
@@ -32,7 +32,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|To Do|To Do|To Do|To Do|
 |018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|To Do|To Do|To Do|To Do|
-|020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|To Do|To Do|To Do|To Do|
+|020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/020.%20Valid%20Parentheses/20.py)|To Do|To Do|
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) |Easy|To Do|To Do|To Do|To Do|
 |022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |Medium|To Do|To Do|To Do|To Do|
 |023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -244,7 +244,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) |Medium|To Do|To Do|To Do|To Do|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/description/) |Easy|To Do|To Do|To Do|To Do|
-|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) |Easy|To Do|To Do|To Do|To Do|
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/232.%20Implement%20Queue%20using%20Stacks/232.py)|To Do|To Do|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/description/) |Hard|To Do|To Do|To Do|To Do|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) |Easy|To Do|To Do|To Do|To Do|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -499,7 +499,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/) |Hard|To Do|To Do|To Do|To Do|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/description/) |Medium|To Do|To Do|To Do|To Do|
 |495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/) |Medium|To Do|To Do|To Do|To Do|
-|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) |Easy|To Do|To Do|To Do|To Do|
+|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/496.%20Next%20Greater%20Element%20I/496.py)|To Do|To Do|
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) |Medium|To Do|To Do|To Do|To Do|
 |499|[The Maze III](https://leetcode.com/problems/the-maze-iii/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -716,7 +716,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |736|[Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/description/) |Hard|To Do|To Do|To Do|To Do|
 |737|[Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |738|[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/description/) |Medium|To Do|To Do|To Do|To Do|
-|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) |Medium|To Do|To Do|To Do|To Do|
+|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) |Medium|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/739.%20Daily%20Temperatures/739.py)|To Do|To Do|
 |740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) |Medium|To Do|To Do|To Do|To Do|
 |741|[Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) |Hard|To Do|To Do|To Do|To Do|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/709.%20To%20Lower%20Case/to-lower-case.py)|To Do|To Do|
