@@ -266,7 +266,7 @@ class Readme:
                     'java': item.java if item.java else 'To Do',
                     'swift': item.swift if item.swift else 'To Do',
                 }
-                line = '|{id}|{title}|{difficulty}|{js}|{python}|{c++}|{java}|\n'.format(**data)
+                line = '|{id}|{title}|{difficulty}|{js}|{python}|{c++}|{java}|{swift}|\n'.format(**data)
                 f.write(line)
             print('README.md was created.....')
 
