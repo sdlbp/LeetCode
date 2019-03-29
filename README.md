@@ -1,8 +1,8 @@
 # Leet Code 
-Until 2019-03-27 18:31:10, I have solved **74** / **1011** problems while **163** are still locked.
+Until 2019-03-29 14:41:15, I have solved **74** / **1011** problems while **163** are still locked.
 
 Completion statistic: 
-1. JavaScript: 0 
+1. JavaScript: 3 
 2. Python: 74
 3. C++: 0
 4. Java: 0
@@ -721,7 +721,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) |Medium|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/739.%20Daily%20Temperatures/739.py)|To Do|To Do|To Do|
 |740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |741|[Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
-|709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/709.%20To%20Lower%20Case/to-lower-case.py)|To Do|To Do|[swift](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/709.%20To%20Lower%20Case/709.swift)|
+|709|[To Lower Case](https://leetcode.com/problems/to-lower-case/description/) |Easy|[JavaScript](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/709.%20To%20Lower%20Case/709.js)|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/709.%20To%20Lower%20Case/709.py)|To Do|To Do|[swift](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/709.%20To%20Lower%20Case/709.swift)|
 |742|[Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
 |743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
@@ -801,7 +801,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |801|[Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |803|[Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
-|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/804.%20Unique%20Morse%20Code%20Words/unique-morse-code-words.py)|To Do|To Do|To Do|
+|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) |Easy|[JavaScript](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/804.%20Unique%20Morse%20Code%20Words/804.js)|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/804.%20Unique%20Morse%20Code%20Words/804.py)|To Do|To Do|To Do|
 |805|[Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
 |806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
 |807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
@@ -936,7 +936,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |927|[Three Equal Parts](https://leetcode.com/problems/three-equal-parts/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
 |928|[Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
-|929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/929.%20Unique%20Email%20Addresses/unique-email-addresses.py)|To Do|To Do|To Do|
+|929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/) |Easy|[JavaScript](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/929.%20Unique%20Email%20Addresses/929.js)|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/929.%20Unique%20Email%20Addresses/929.py)|To Do|To Do|To Do|
 |930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |932|[Beautiful Array](https://leetcode.com/problems/beautiful-array/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
