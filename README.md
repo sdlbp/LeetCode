@@ -1,8 +1,8 @@
 # Leet Code 
-Until 2019-03-29 14:41:15, I have solved **74** / **1011** problems while **163** are still locked.
+Until 2019-03-29 19:23:52, I have solved **77** / **1011** problems while **163** are still locked.
 
 Completion statistic: 
-1. JavaScript: 3 
+1. JavaScript: 9 
 2. Python: 74
 3. C++: 0
 4. Java: 0
@@ -357,7 +357,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
-|344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/344.%20Reverse%20String/reverse-string.py)|To Do|To Do|To Do|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/description/) |Easy|[JavaScript](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/344.%20Reverse%20String/344.js)|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/344.%20Reverse%20String/344.py)|To Do|To Do|To Do|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/345.%20Reverse%20Vowels%20of%20a%20String/reverse-vowels-of-a-string.py)|To Do|To Do|To Do|
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/description/) :lock:|Easy|To Do|To Do|To Do|To Do|To Do|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
@@ -520,7 +520,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |517|[Super Washing Machines](https://leetcode.com/problems/super-washing-machines/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
-|521|[Longest Uncommon Subsequence I ](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
+|521|[Longest Uncommon Subsequence I ](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) |Easy|[JavaScript](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/521.%20Longest%20Uncommon%20Subsequence%20I%20/521.js)|To Do|To Do|To Do|To Do|
 |522|[Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/description/) |Medium|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting/longest-word-in-dictionary-through-deleting.py)|To Do|To Do|To Do|
@@ -553,7 +553,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |554|[Brick Wall](https://leetcode.com/problems/brick-wall/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |555|[Split Concatenated Strings](https://leetcode.com/problems/split-concatenated-strings/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
 |556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
-|557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/557.%20Reverse%20Words%20in%20a%20String%20III/reverse-words-in-a-string-iii.py)|To Do|To Do|To Do|
+|557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) |Easy|[JavaScript](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/557.%20Reverse%20Words%20in%20a%20String%20III/557.js)|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/557.%20Reverse%20Words%20in%20a%20String%20III/557.py)|To Do|To Do|To Do|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/561.%20Array%20Partition%20I/array_partition_i.py)|To Do|To Do|To Do|
 |562|[Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
@@ -597,7 +597,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |602|[Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
 |603|[Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/description/) :lock:|Easy|To Do|To Do|To Do|To Do|To Do|
 |604|[Design Compressed String Iterator](https://leetcode.com/problems/design-compressed-string-iterator/description/) :lock:|Easy|To Do|To Do|To Do|To Do|To Do|
-|605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/605.%20Can%20Place%20Flowers/can_place_flowers.py)|To Do|To Do|To Do|
+|605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/605.%20Can%20Place%20Flowers/605.py)|To Do|To Do|To Do|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
 |607|[Sales Person](https://leetcode.com/problems/sales-person/description/) :lock:|Easy|To Do|To Do|To Do|To Do|To Do|
 |608|[Tree Node](https://leetcode.com/problems/tree-node/description/) :lock:|Medium|To Do|To Do|To Do|To Do|To Do|
@@ -647,7 +647,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |656|[Coin Path](https://leetcode.com/problems/coin-path/description/) :lock:|Hard|To Do|To Do|To Do|To Do|To Do|
-|657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/) |Easy|To Do|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/657.%20Robot%20Return%20to%20Origin/robot-return-to-origin.py)|To Do|To Do|To Do|
+|657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/) |Easy|[JavaScript](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/657.%20Robot%20Return%20to%20Origin/657.js)|[Python](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/657.%20Robot%20Return%20to%20Origin/657.py)|To Do|To Do|To Do|
 |658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |660|[Remove 9](https://leetcode.com/problems/remove-9/description/) :lock:|Hard|To Do|To Do|To Do|To Do|To Do|
@@ -901,7 +901,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |891|[Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
 |892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
-|893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
+|893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/description/) |Easy|[JavaScript](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/893.%20Groups%20of%20Special-Equivalent%20Strings/893.js)|To Do|To Do|To Do|To Do|
 |894|[All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
@@ -944,7 +944,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |935|[Knight Dialer](https://leetcode.com/problems/knight-dialer/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |936|[Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
-|937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files/description/) |Easy|To Do|To Do|To Do|To Do|To Do|
+|937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files/description/) |Easy|[JavaScript](https://github.com/sdlbp/LeetCode/blob/master/leetcode-algorithms/937.%20Reorder%20Log%20Files/937.js)|To Do|To Do|To Do|To Do|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |939|[Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/description/) |Medium|To Do|To Do|To Do|To Do|To Do|
 |940|[Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/description/) |Hard|To Do|To Do|To Do|To Do|To Do|
